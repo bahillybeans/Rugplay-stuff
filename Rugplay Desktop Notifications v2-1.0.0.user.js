@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  Notifications in rugplay now show on the desktop
-// @author       Not_Perfect
+// @author       Not_Perfect / Hoodclassic
 // @match        *://rugplay.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_notification
